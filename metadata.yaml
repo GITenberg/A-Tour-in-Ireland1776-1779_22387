@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1355
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22387#A-Tour-in-Ireland1776-1779
 gutenberg_issued: '2007-08-25'
 gutenberg_type: Text
 identifiers:
